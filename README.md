@@ -27,6 +27,7 @@ A one screen weather app, with a 3 days weather forecast built with the free wea
 
 ## Missing Functionality [To-Do]
 
-- When the user search for a city and click on one, we need to reload the ui with the selected city and update the UI accordinglly.
+- When the user search for a city and click on one, we need to reload the ui with the selected city and update the UI accordingly.
 - The Search view needs to be moved over the main home screen UI instead of pushing the content down and appear in top of it.
-- Some times the search field is cleared without clicking the clear icon due to a bug in current search implemenation.
+- Some times the search field is cleared without clicking the clear icon due to a bug in current search implementation.
+- Adding units tests and UI tests.
