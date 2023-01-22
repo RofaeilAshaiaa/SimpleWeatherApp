@@ -1,7 +1,7 @@
+![alt text](./screenshot/screenshot-project-overview.png)
+
 # Project Overview
-
 A one screen weather app, with a 3 days weather forecast built with the free weather [API](https://www.weatherapi.com)
-
 
 ## Requiremnts
 - Android Studio.
