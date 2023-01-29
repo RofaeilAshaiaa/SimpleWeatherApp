@@ -11,7 +11,7 @@ A one screen weather app, with a 3 days weather forecast built with the free wea
 
 ## How to build
 
-1. First clone the repo on any location of your choice on your laptop, you can execute the following command to clone it ` git clone https://github.com/maxabio/receiver` in the _terminal/command_ line on Linux/Mac or in your _bash shell/git bash_ on Windows.
+1. First clone the repo on any location of your choice on your laptop, you can execute the following command to clone it ` git clone https://github.com/RofaeilAshaiaa/SimpleWeatherApp` in the _terminal/command_ line on Linux/Mac or in your _bash shell/git bash_ on Windows.
 
 2. You'll need an API key from the free weather [API](https://www.weatherapi.com) to be able to build and run the app. So, if you don't have an API key, go to the website and signup to get an API key.
 
